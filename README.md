@@ -2,7 +2,7 @@
 ## (IN PREPARATION, OPENSOURCING)
 Tendon length calculation considering tendon wrapping around knee bones SDF (Signed Distance Field)
 
-The relevant study is as follows.    
+The relevant study is as follows:   
 Shinsuke Nakashima*, Yilun Sun, Julius Ambros, Robin Schregle, Christoph Rehekampff,    
 Qi An, Atsushi Yamashita, and Tim C. Lueth.  
 “Bio-inspired Open Ligamentous Knee Joint with Extended Pitch and Yaw Range of Motion.”  
